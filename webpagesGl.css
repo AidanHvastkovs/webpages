@@ -16,8 +16,10 @@ p {
     property: value;
 }
 
-#id {
-    property:value;
+#photo-resize {
+
+   max-width: 250px;
+   max-height: 300px;
 }
 
 .tabel-border{
